@@ -6,7 +6,7 @@
     <version>1.0.36</version>
     <packaging>pom</packaging>
     <name>Visagababu</name>
-    <url>https://github.com/Visagababu/game-of-life</url>
+    <url>https://github.com/Visagababu/Visagababu.git</url>
     <properties>
         <build.number>SNAPSHOT</build.number>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
